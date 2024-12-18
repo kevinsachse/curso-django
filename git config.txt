@@ -1,6 +1,6 @@
-PS C:\python\curso-django> git config --global user.name "Kevin Sachse"
-PS C:\python\curso-django> git config --global user.email "kevin.sachse@outlook.com.br"
-PS C:\python\curso-django> git config --global init.defaultBranch main
-PS C:\python\curso-django> git init
-PS C:\python\curso-django> ssh-keygen
-PS C:\python\curso-django> git remote add origin git@github.com:kevinsachse/curso-django.git
+git config --global user.name "Kevin Sachse"
+git config --global user.email "kevin.sachse@outlook.com.br"
+git config --global init.defaultBranch main
+git init
+ssh-keygen
+git remote add origin git@github.com:kevinsachse/curso-django.git
