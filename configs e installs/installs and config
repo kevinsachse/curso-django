@@ -1,0 +1,9 @@
+extensions (ms-python.vscode-pylance, ms-python.python, batisteo.vscode-django)
+
+py -m pip install pip setuptools wheel --upgrade
+
+pip install django  //(instala a biblioteca do djnago)
+
+django-admin startproject projeto .     //(alterar o nome "projeto" para o nome desejado e precisa do . para criar a pasta do projeto corretamente)
+
+python manage.py runserver  //(roda o servidor)
